@@ -419,7 +419,7 @@ export default function Dashboard() {
                     <Heart size={18} className="text-rose-400" />
                   </div>
                   <div>
-                    <div className="text-black font-medium text-sm">
+                    <div className="text-white font-medium text-sm">
                       {user.charity.charityId?.name || "Selected Charity"}
                     </div>
                     <div className="text-slate-400 text-xs">
